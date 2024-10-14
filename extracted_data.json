@@ -1,0 +1,20 @@
+[
+  {
+    "document_id": "auftrag1_redacted.pdf",
+    "document_type": "Auftrag",
+    "company_info": {
+      "name": "Media Impact GmbH & Co. KG Zimmerstraße 50",
+      "address": "10888 BERLIN"
+    },
+    "order_details": []
+  },
+  {
+    "document_id": "auftrag2_redacted.pdf",
+    "document_type": "Auftrag",
+    "company_info": {
+      "name": "Media Impact GmbH & Co. KG Anzeigenabteilung Axel-Springer-Straße 65",
+      "address": "10888 BERLIN"
+    },
+    "order_details": []
+  }
+]
